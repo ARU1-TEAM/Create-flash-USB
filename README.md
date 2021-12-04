@@ -2,10 +2,10 @@
 
 * [Introduction](#introduction)
 * [Set USB On windows](#set-usb-on-windows)
-  * [Install windows On Windows](#install-windows-on-windows)
+  * [Install Windows On Windows](#install-windows-on-windows)
   * [Install Linux On Windows](#install-linux-on-windows)
 * [Set USB On Linux](#set-usb-on-linux)
-  * [Install windows On Linux](#install-windows-on-linux)
+  * [Install Windows On Linux](#install-windows-on-linux)
   * [Install Linux On Linux](#install-linux-on-linux)
 * [Credits](#credits)
 
@@ -15,9 +15,7 @@ This repository is a guide to install windows and linux via different OS. There 
 ## Set USB On Windows
 This is the guide to set up a flash USB if you are on windows.
 
-### Install windows On Windows
-
-
+### Install Windows On Windows
 
 
 ### Install Linux On Windows
@@ -30,26 +28,28 @@ This is the guide to set up a flash USB if you are on windows.
 This is the guide to set up a flash USB if you are on linux.
 
 ### Install windows On Linux
+- First, install [windows iso file](https://www.microsoft.com/en-us/software-download/windows10ISO).
+- Now we have to install WoeUsb to set up the flash usb, but we have to install libwxgtk3 to get it to work. 
+
+~~~sh
+wget http://mirrors.kernel.org/ubuntu/pool/universe/w/wxwidgets3.0/libwxgtk3.0-0v5_3.0.4+dfsg-3_amd64.deb
+sudo dpkg -i libwxgtk*_amd64.deb
+~~~
+
+- Now we will install some dependencies.
+
+~~~sh
+sudo apt install git p7zip-full python3-pip python3-wxgtk4.0
+sudo pip3 install WoeUSB-ng
+~~~
+- And finally install the app repository and WoeUsb.
+~~~sh
+sudo add-apt-repository ppa:nilarimogard/webupd8
+sudo apt install woeusb
+~~~
+
 
 
 ### nstall Linux On Linux
 
-<details>
- <summary>Click to see more</summary>
- There it is !
-</details>
 
-
-<details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
-<br><br>
-<pre>
-&lt;details&gt;
-&lt;summary&gt;How do I dropdown?&lt;&#47;summary&gt;
-&lt;br&gt;
-This is how you dropdown.
-&lt;&#47;details&gt;
-</pre>
-</details>
