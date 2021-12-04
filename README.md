@@ -10,7 +10,7 @@
 * [Credits](#credits)
 
 ## Introduction
-This repository is a guide to install windows and linux via different OS. 
+This repository is a guide to install windows and linux via different OS. There is also a guide to install a [full custom and functionnal Ubuntu repository](https://github.com/ARU1-TEAM/Ubuntu-installation-XFCE4-I3wm) if you want. 
 
 ## Set USB On Windows
 This is the guide to set up a flash USB if you are on windows.
