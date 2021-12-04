@@ -52,11 +52,17 @@ Now that you installed WoeUsb, we will set up the usb.
 - Select the iso file that we previously installed 
 - Select your Usb ni the `Target device`. 
 - Make shure you can see all the available disk by going in the `file` tab and selecting `Display all disks`.
-- Now click `install` button. 
+- Now click `install` button. Done !
 
 You can **reboot** and **select** your Usb in the `boot` section of your BIOS/UEFI.
 
 
 ### Install Linux On Linux
+- First, install the Linux Iso file that you want. In our case we will install Ubuntu, [click here](https://ubuntu.com/download/desktop#download) to install Ubuntu iso file. But for example if you want to install arch linux, it will be [here](https://archlinux.org/download/). 
+- Now [install BalenaEtcher](https://www.balena.io/etcher/) to set up the usb key.
+- Click on `Flash form file` and select the iso file.
+- Click on `Select target` and select your Usb key.
+- Finally click on `flash`. Done !
 
+Once finished you can **reboot** and **select** your usb in the `boot` section of your BIOS/UEFI.
 
