@@ -47,7 +47,14 @@ sudo pip3 install WoeUSB-ng
 sudo add-apt-repository ppa:nilarimogard/webupd8
 sudo apt install woeusb
 ~~~
+Now that you installed WoeUsb, we will set up the usb. 
+- First launch WoeUsb
+- Select the iso file that we previously installed 
+- Select your Usb ni the `Target device`. 
+- Make shure you can see all the available disk by going in the `file` tab and selecting `Display all disks`.
+- Now click `install` button. 
 
+You can reboot and select your Usb in the `boot` section of your BIOS/UEFI.
 
 
 ### Install Linux On Linux
