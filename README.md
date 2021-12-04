@@ -34,7 +34,10 @@ This is the guide to set up a flash USB if you are on linux.
 
 ### nstall Linux On Linux
 
-
+<details>
+ <summary>Click to see more</summary>
+ There it is !
+</details>
 
 
 <details>
