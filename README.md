@@ -50,6 +50,6 @@ sudo apt install woeusb
 
 
 
-### nstall Linux On Linux
+### Install Linux On Linux
 
 
