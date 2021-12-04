@@ -28,7 +28,7 @@ This is the guide to set up a flash USB if you are on windows.
 This is the guide to set up a flash USB if you are on linux.
 
 ### Install windows On Linux
-- First, install [windows iso file](https://www.microsoft.com/en-us/software-download/windows10ISO).
+- First, install [windows iso file](https://www.microsoft.com/en-us/software-download/windows10ISO). Make shure to take the right version and select your language.
 - Now we have to install WoeUsb to set up the flash usb, but we have to install libwxgtk3 to get it to work. 
 
 ~~~sh
