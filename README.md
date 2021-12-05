@@ -16,13 +16,14 @@ This repository is a guide to install windows and linux via different OS. There 
 This is the guide to set up a flash USB if you are on windows.
 
 ### Install Windows On Windows
+- First install the [windows tool](https://www.microsoft.com/en-us/software-download/windows10).
+- Then follow the instructions to put the iso file on your usb key. 
+
+Now you can reboot your computer and select your usb key in the `boot` section of your BIOS/UEFI
 
 
 ### Install Linux On Windows
-
-
-
-
+Theses instructions are the same as the ÌNstall windows On Linux` you will find them at the end of the repo right [here](#Install windows On Linux)
 
 ## Set USB On Linux
 This is the guide to set up a flash USB if you are on linux.
