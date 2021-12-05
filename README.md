@@ -1,13 +1,14 @@
 ## Table of Contents
 
-* [Introduction](#introduction)
-* [Set USB On windows](#set-usb-on-windows)
-  * [Install Windows On Windows](#install-windows-on-windows)
-  * [Install Linux On Windows](#install-linux-on-windows)
-* [Set USB On Linux](#set-usb-on-linux)
-  * [Install Windows On Linux](#install-windows-on-linux)
-  * [Install Linux On Linux](#install-linux-on-linux)
-* [Credits](#credits)
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Set USB On Windows](#set-usb-on-windows)
+  - [Install Windows On Windows](#install-windows-on-windows)
+  - [Install Linux On Windows](#install-linux-on-windows)
+- [Set USB On Linux](#set-usb-on-linux)
+  - [Install windows On Linux](#install-windows-on-linux)
+  - [Install Linux On Linux](#install-linux-on-linux)
+- [Credits](#credits)
 
 ## Introduction
 This repository is a guide to install windows and linux via different OS. There is also a guide to install a [full custom and functionnal Ubuntu repository](https://github.com/ARU1-TEAM/Ubuntu-installation-XFCE4-I3wm) if you want. 
@@ -66,6 +67,10 @@ You can **reboot** and **select** your Usb in the `boot` section of your BIOS/UE
 - Finally click on `flash`. Done !
 
 Once finished you can **reboot** and **select** your usb in the `boot` section of your BIOS/UEFI.
+
+## Credits 
+
+> This repository was made by Felixoux, I hope it was helpfull. If you have any questions, feel free to ask. 
 
 
 
