@@ -23,7 +23,7 @@ Now you can reboot your computer and select your usb key in the `boot` section o
 
 
 ### Install Linux On Windows
-Theses instructions are the same as the ÌNstall windows On Linux` you will find them at the end of the repo right [here](#Install windows On Linux)
+Theses instructions are the same as the ÌNstall windows On Linux` you will find them at the end of the repo.
 
 ## Set USB On Linux
 This is the guide to set up a flash USB if you are on linux.
