@@ -67,7 +67,7 @@ You can **reboot** and **select** your Usb in the `boot` section of your BIOS/UE
 
 Once finished you can **reboot** and **select** your usb in the `boot` section of your BIOS/UEFI.
 
-## Credits 
+
 
 
 
