@@ -41,6 +41,7 @@ sudo dpkg -i libwxgtk*_amd64.deb
 - Now we will install some dependencies.
 
 ~~~sh
+sudo apt-get -y install python3-pip
 sudo apt install git p7zip-full python3-pip python3-wxgtk4.0
 sudo pip3 install WoeUSB-ng
 ~~~
