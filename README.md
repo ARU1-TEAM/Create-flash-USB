@@ -70,7 +70,7 @@ Once finished you can **reboot** and **select** your usb in the `boot` section o
 
 ## Credits 
 
-This repository was made by Felixoux, I hope it was helpfull. If you have any questions, feel free to ask. 
+> This repository was made by Felixoux, I hope it was helpfull. If you have any questions, feel free to ask. 
 
 
 
